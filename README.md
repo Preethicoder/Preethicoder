@@ -9,9 +9,6 @@ I'm a passionate developer with a love for creating and learning. 🚀
 - 📫 How to reach me: [preethisivakumar2024@gmail.com]
 - ⚡ Fun fact: [Arts and Crafts]  
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
 ## 🛠️ Technologies & Tools
 - **Languages**: [Core JAVA,Spring Boot,HTML,CSS,Flask,SQLite,Python, JavaScript, etc.]
 - **Frameworks & Libraries**: [ Django,Spring]
