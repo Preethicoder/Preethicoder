@@ -15,5 +15,5 @@ I'm a passionate developer with a love for creating and learning. 🚀
 - **Tools**: [Git, Docker, JSON, Postman, HTTP,LINUX]
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://www.linkedin.com/in/preethi-sivakumar-231539a1/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/preethi-sivakumar-231539a1)
 
