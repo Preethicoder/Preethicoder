@@ -15,5 +15,5 @@ I'm a passionate developer with a love for creating and learning. 🚀
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/preethi-sivakumar-231539a1)
-[![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail)](mailto:preethisivakumar2024@gmail.com)
+[![Gmail]](mailto:preethisivakumar2024@gmail.com)
 
