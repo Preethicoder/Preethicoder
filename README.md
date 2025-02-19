@@ -1,7 +1,7 @@
 # PreethiSivakumar
 # 👋 Hi, I'm Preethi Sivakumar!
 I'm a passionate developer with a love for creating and learning. 🚀  
-🚀 Full-Stack Developer | Java | Python | Generative AI | 6+ Years Experience
+🚀 BackEnd Developer | Java | Python | Generative AI | 6+ Years Experience
 
 ## 🌟 About Me
 I'm a software engineer with 6+ years of experience in full-stack development, specializing in high-performance Java applications, web solutions, and AI-driven technologies. Passionate about Generative AI and always eager to explore cutting-edge innovations!
